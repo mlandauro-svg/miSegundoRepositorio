@@ -1,2 +1,1 @@
-# miSegundoRepositorio
-mi segundo repo
+mi segundo repositorio
